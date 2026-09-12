@@ -15,9 +15,9 @@
 
 ## 📌 نبذة تعريفية | About Me
 
-مهندس ذكاء اصطناعي شغوف ببناء نماذج تعلّم عميق قوية وقابلة للتفسير والنشر في بيئات الإنتاج الحقيقية. أركز على تطبيق أحدث أبحاث الرؤية الحاسوبية ومعالجة اللغات الطبيعية وهندسة النظم الذكية، مع الالتزام بأعلى معايير الاختبار الآلي والـ MLOps.
+مهندس ذكاء اصطناعي شغوف ببناء وتطوير نماذج تعلّم عميق وتعلم آلي متقدمة وقابلة للتفسير والنشر في بيئات الإنتاج الحقيقية. أركز على تطبيق أحدث أبحاث الرؤية الحاسوبية، والتشخيص الطبي بالذكاء الاصطناعي، وهندسة النظم الذكية، مع الالتزام الصارم بأعلى معايير الاختبار الآلي والـ MLOps.
 
-- 🔬 **المجالات الرئيسية:** Computer Vision, Medical Image Segmentation, RAG Architectures, End-to-End MLOps.
+- 🔬 **المجالات الرئيسية:** Computer Vision, Medical Diagnostics & Segmentation, RAG Architectures, End-to-End MLOps.
 - 📐 **الأساس النظري:** بناء شبكات التعلّم العصبي بالاشتقاق الرياضي الخالص (Pure NumPy & Calculus from scratch).
 - 🛠️ **الجاهزية للإنتاج:** تصميم أنظمة تعتمد الاختبارات الآلية (CI/CD)، التوثيق المعياري، والحاويات (Docker).
 
@@ -27,7 +27,8 @@
 
 | المشروع | التصنيف | التقنيات | الروابط |
 | :--- | :--- | :--- | :--- |
-| **[Skin Lesion Classification](https://github.com/Yasir-Alazmi/skin-lesion-classification)** | Medical AI / CV | PyTorch, Transfer Learning, Docker, CI/CD | [![CI](https://github.com/Yasir-Alazmi/skin-lesion-classification/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/skin-lesion-classification/actions) |
+| **[Healthcare ML Diagnostics Benchmark](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics)** | Medical AI / Benchmark | 10 ML Algorithms, 5 Clinical Datasets, SMOTE, Scikit-Learn | [![CI](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions) |
+| **[Skin Lesion Classification](https://github.com/Yasir-Alazmi/skin-lesion-classification)** | Medical AI / CV | PyTorch, Transfer Learning, Vision Transformer, CI/CD | [![CI](https://github.com/Yasir-Alazmi/skin-lesion-classification/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/skin-lesion-classification/actions) |
 | **[Neural Network From Scratch](https://github.com/Yasir-Alazmi/neural-network-from-scratch)** | Deep Learning Theory | Pure NumPy, Vectorized Backprop, Gradient Checking | [![CI](https://github.com/Yasir-Alazmi/neural-network-from-scratch/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/neural-network-from-scratch/actions) |
 | **[Fake News Detector](https://github.com/Yasir-Alazmi/fake-news-detector)** | NLP / Classification | Scikit-Learn, TF-IDF, Logistic Regression, CI/CD | [![CI](https://github.com/Yasir-Alazmi/fake-news-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/fake-news-detector/actions) |
 | **[Music Recommender System](https://github.com/Yasir-Alazmi/music-recommender)** | Recommender Systems | Streamlit, Cosine Similarity, Spotify Audio Features | [![CI](https://github.com/Yasir-Alazmi/music-recommender/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/music-recommender/actions) |
