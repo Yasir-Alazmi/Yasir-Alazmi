@@ -1,52 +1,46 @@
-<div align="center">
+# Yasir Alazmi
+### Artificial Intelligence Engineer | Deep Learning & Generative AI Systems
 
-# 🌟 ياسر العازمي | Yasir Alazmi
-### **Artificial Intelligence Engineer & Applied Machine Learning Researcher**
-
-[![GitHub followers](https://img.shields.io/github/followers/Yasir-Alazmi?style=for-the-badge&logo=github&color=2ea44f)](https://github.com/Yasir-Alazmi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:yasir.alazmi@example.com)
-
-*Specialized in Computer Vision, Medical Imaging, Deep Learning Mathematical Architectures, and Retrieval-Augmented Generation (RAG).*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir_Alazmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-alazmi-471832436)
+[![Email](https://img.shields.io/badge/Email-yasir.alazmi@outlook.sa-D14836?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:yasir.alazmi@outlook.sa)
+[![Degree](https://img.shields.io/badge/Degree-B.S._Artificial_Intelligence-107C41?style=flat-square)](https://github.com/Yasir-Alazmi)
+[![Certification](https://img.shields.io/badge/Certified-BCG_X_GenAI-000000?style=flat-square)](https://github.com/Yasir-Alazmi)
 
 ---
 
-</div>
+## Profile Overview
 
-## 📌 نبذة تعريفية | About Me
+Artificial Intelligence Engineer with a formal Bachelor of Science in Artificial Intelligence from the University of Hail. Experienced in engineering production-grade machine learning systems, medical computer vision pipelines, and deterministic generative AI architectures. Committed to rigorous software engineering practices, test-driven validation (CI/CD), and reproducible empirical evaluation.
 
-مهندس ذكاء اصطناعي شغوف ببناء وتطوير نماذج تعلّم عميق وتعلم آلي متقدمة وقابلة للتفسير والنشر في بيئات الإنتاج الحقيقية. أركز على تطبيق أحدث أبحاث الرؤية الحاسوبية، والتشخيص الطبي بالذكاء الاصطناعي، وهندسة النظم الذكية، مع الالتزام الصارم بأعلى معايير الاختبار الآلي والـ MLOps.
-
-- 🔬 **المجالات الرئيسية:** Computer Vision, Medical Diagnostics & Segmentation, RAG Architectures, End-to-End MLOps.
-- 📐 **الأساس النظري:** بناء شبكات التعلّم العصبي بالاشتقاق الرياضي الخالص (Pure NumPy & Calculus from scratch).
-- 🛠️ **الجاهزية للإنتاج:** تصميم أنظمة تعتمد الاختبارات الآلية (CI/CD)، التوثيق المعياري، والحاويات (Docker).
+- **Primary Focus**: Deep Learning Architectures, Medical Image Classification (Vision Transformers), and Production Generative AI.
+- **Methodology**: First-principles mathematical implementation, automated regression testing, and modular API-first architecture.
+- **Accreditation**: BCG X GenAI Certified (Data extraction, deterministic financial chatbot architecture, and hybrid RAG governance).
 
 ---
 
-## 🚀 مشاريع الذكاء الاصطناعي المميزة | Featured AI Projects
+## Featured Engineering Repositories
 
-| المشروع | التصنيف | التقنيات | الروابط |
+| Repository | Domain | Core Stack | Automated CI Status |
 | :--- | :--- | :--- | :--- |
-| **[Healthcare ML Diagnostics Benchmark](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics)** | Medical AI / Benchmark | 10 ML Algorithms, 5 Clinical Datasets, SMOTE, Scikit-Learn | [![CI](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions) |
-| **[Skin Lesion Classification](https://github.com/Yasir-Alazmi/skin-lesion-classification)** | Medical AI / CV | PyTorch, Transfer Learning, Vision Transformer, CI/CD | [![CI](https://github.com/Yasir-Alazmi/skin-lesion-classification/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/skin-lesion-classification/actions) |
-| **[Neural Network From Scratch](https://github.com/Yasir-Alazmi/neural-network-from-scratch)** | Deep Learning Theory | Pure NumPy, Vectorized Backprop, Gradient Checking | [![CI](https://github.com/Yasir-Alazmi/neural-network-from-scratch/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/neural-network-from-scratch/actions) |
-| **[Fake News Detector](https://github.com/Yasir-Alazmi/fake-news-detector)** | NLP / Classification | Scikit-Learn, TF-IDF, Logistic Regression, CI/CD | [![CI](https://github.com/Yasir-Alazmi/fake-news-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/fake-news-detector/actions) |
-| **[Music Recommender System](https://github.com/Yasir-Alazmi/music-recommender)** | Recommender Systems | Streamlit, Cosine Similarity, Spotify Audio Features | [![CI](https://github.com/Yasir-Alazmi/music-recommender/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/music-recommender/actions) |
+| **[Comparative-Analysis-Healthcare](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics)** | Medical Diagnostics / Benchmark | 10 Algorithms, 5 Clinical Datasets, 5-Fold CV, Scikit-Learn | [![CI](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions) |
+| **[skin-lesion-classification](https://github.com/Yasir-Alazmi/skin-lesion-classification)** | Computer Vision / Medical AI | PyTorch, Vision Transformers (ViT), EfficientNet-B3, CI/CD | [![CI](https://github.com/Yasir-Alazmi/skin-lesion-classification/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/skin-lesion-classification/actions) |
+| **[neural-network-from-scratch](https://github.com/Yasir-Alazmi/neural-network-from-scratch)** | Deep Learning Foundations | Vectorized Calculus, Pure NumPy, Gradient Checking | [![CI](https://github.com/Yasir-Alazmi/neural-network-from-scratch/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/neural-network-from-scratch/actions) |
+| **[fake-news-detector](https://github.com/Yasir-Alazmi/fake-news-detector)** | NLP / Text Classification | Scikit-Learn, TF-IDF Vectorization, Logistic Regression | [![CI](https://github.com/Yasir-Alazmi/fake-news-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/fake-news-detector/actions) |
+| **[music-recommender](https://github.com/Yasir-Alazmi/music-recommender)** | Recommender Systems | Cosine Similarity, Feature Engineering, Streamlit | [![CI](https://github.com/Yasir-Alazmi/music-recommender/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/music-recommender/actions) |
 
 ---
 
-## 🛠️ المهارات والتقنيات | Tech Stack & Core Competencies
+## Technical Stack & Competencies
 
-```
-AI / Deep Learning : PyTorch, TensorFlow, Scikit-Learn, Hugging Face, OpenCV
-NLP & RAG         : Vector DBs (pgvector, Qdrant), LangChain, Embedding Models
-Theory & Math     : Vectorized Calculus, Matrix Decomposition, Optimization (Adam, SGD)
-MLOps & DevOps    : Docker, GitHub Actions CI/CD, Pytest, PyDantic, Fastify/FastAPI
-Languages         : Python (Advanced), TypeScript, SQL, Bash
-```
+- **Deep Learning & Computer Vision**: PyTorch, Torchvision, Vision Transformers (ViT), EfficientNet, OpenCV, Scikit-Learn.
+- **Generative AI & LLM Systems**: Retrieval-Augmented Generation (RAG), Vector Embeddings, Prompt Engineering, Deterministic Guardrails.
+- **Engineering & Infrastructure**: Docker, Git, GitHub Actions (CI/CD Pipelines), Pytest, FastAPI, Pandas, NumPy.
+- **Mathematical Foundations**: Vectorized Matrix Operations, Backpropagation from First Principles, Optimization (Adam, SGD).
 
 ---
 
-<div align="center">
-  <sub>Built with precision and continuous integration. Feel free to explore my repositories!</sub>
-</div>
+```
+Contact  : yasir.alazmi@outlook.sa
+LinkedIn : https://www.linkedin.com/in/yasir-alazmi-471832436
+GitHub   : https://github.com/Yasir-Alazmi
+```
