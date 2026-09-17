@@ -94,8 +94,11 @@ Every repository in this portfolio is an executable artifact adhering to strict 
         <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics">
           <img src="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
         </a>
+        <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/blob/main/notebooks/clinical_diagnostic_benchmark.ipynb">
+          <img src="https://img.shields.io/badge/Notebook-Consulting_Grade-20BEFF?style=flat-square&logo=jupyter&logoColor=white" alt="Consulting Notebook" />
+        </a>
         <br>
-        <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics"><b>Explore Repository →</b></a>
+        <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics"><b>Explore Repository →</b></a> &bull; <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/blob/main/notebooks/clinical_diagnostic_benchmark.ipynb"><b>View Benchmark Notebook →</b></a>
       </p>
     </td>
   </tr>
