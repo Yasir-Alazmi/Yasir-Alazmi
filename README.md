@@ -129,6 +129,28 @@ Every repository in this portfolio is an executable artifact adhering to strict 
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 <b>Menuo (منيو) — Enterprise Hospitality Operating System</b></h4>
+      <p>Full-stack SaaS digital web operating system engineered for Saudi hospitality brands, integrating ZATCA Phase 2 e-invoicing compliance and SFDA dietary standards.</p>
+      <ul>
+        <li><b>Saudi Compliance:</b> ZATCA Phase 2 TLV QR encoding, Wafeq XML API integration, and 15% VAT</li>
+        <li><b>Health Standards:</b> SFDA allergen matrix (Eggs, Dairy, Nuts, Wheat, Soy) & calorie breakdown</li>
+        <li><b>Stack:</b> Next.js 14, TypeScript, Supabase (PostgreSQL with RLS), Tailwind CSS</li>
+      </ul>
+      <p><sub><i>Proprietary Enterprise Production Platform</i></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏛️ <b>UFUQ (أُفُق) — Institutional Knowledge Base & AI Assistant</b></h4>
+      <p>Specialized institutional knowledge engine synthesized from University of Hail electronic service manuals for student and administrative service navigation.</p>
+      <ul>
+        <li><b>Knowledge Corpus:</b> 5,300+ line curated hierarchical institutional domain base</li>
+        <li><b>Architecture:</b> Unified portal service routing & automated administrative workflows</li>
+        <li><b>Stack:</b> Python, Monorepo Architecture, Domain Knowledge Engineering</li>
+      </ul>
+      <p><sub><i>Institutional System Architecture</i></sub></p>
+    </td>
+  </tr>
 </table>
 
 ---
