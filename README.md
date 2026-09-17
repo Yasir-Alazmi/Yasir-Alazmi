@@ -1,39 +1,39 @@
 <div align="center">
 
-# Hi, I'm Yasir Alazmi 👋
-### Artificial Intelligence Engineer | Deep Learning, Autonomous Agents & Production RAG
+# Yasir Alazmi
+### Artificial Intelligence Engineer
+**Autonomous Multi-Agent Systems &bull; Enterprise Production RAG &bull; Medical Computer Vision**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir_Alazmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-alazmi-471832436)
 [![Email](https://img.shields.io/badge/Email-yasir.alazmi@outlook.sa-D14836?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:yasir.alazmi@outlook.sa)
 [![Degree](https://img.shields.io/badge/Degree-B.S._Artificial_Intelligence-107C41?style=flat-square&logo=academia&logoColor=white)](https://github.com/Yasir-Alazmi)
-[![Certification](https://img.shields.io/badge/Certified-BCG_X_GenAI-000000?style=flat-square&logo=expertsexchange&logoColor=white)](https://www.linkedin.com/in/yasir-alazmi-471832436)
 [![Location](https://img.shields.io/badge/Location-Saudi%20Arabia-107C41?style=flat-square&logo=google-maps&logoColor=white)](#)
 
 <p align="center">
-  B.S. in Artificial Intelligence from the University of Hail & BCG X GenAI Certified.<br>
-  I engineer deterministic multi-agent architectures, enterprise hybrid retrieval systems (RAG),<br>
-  and clinical deep learning computer vision pipelines backed by automated verification.
+  B.S. in Artificial Intelligence from the University of Hail.<br>
+  Specializing in deterministic multi-agent architectures, enterprise hybrid retrieval-augmented generation (RAG),<br>
+  and clinical computer vision pipelines backed by automated verification and rigorous statistical testing.
 </p>
 
 </div>
 
 ---
 
-### 🏛️ Engineering Philosophy: Evidence-First & Zero-Friction
+### Engineering Principles: Evidence-First & Zero-Friction
 
 Every repository in this portfolio is an executable artifact adhering to strict software engineering rigor:
-- **Zero-Friction Execution**: Ready-to-run 60-second inference scripts and sample clinical/domain data.
-- **Automated Verification**: Deterministic test suites run via GitHub Actions CI across all repositories.
-- **Mathematical Integrity**: Vectorized linear algebra from first principles and anti-leakage cross-validation.
+- **Zero-Friction Execution**: Ready-to-run inference scripts and sample clinical/domain data for immediate verification.
+- **Automated Verification**: Deterministic test suites executed via GitHub Actions CI across all public repositories.
+- **Mathematical Integrity**: Vectorized linear algebra from first principles and anti-leakage cross-validation protocols.
 
 ---
 
-### 🚀 Flagship Engineering Repositories
+### Featured Engineering Systems
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Yasir-Alazmi/enterprise-workforce-agents">Enterprise Workforce Agents</a></h4>
+      <h4><a href="https://github.com/Yasir-Alazmi/enterprise-workforce-agents">Enterprise Workforce Agents</a></h4>
       <p>Hierarchical multi-agent supervisor/worker swarm orchestrating distributed asynchronous task lifecycles with bounded state machines and human-in-the-loop review.</p>
       <ul>
         <li><b>Architecture:</b> Supervisor-Worker pattern with LangGraph & FastAPI</li>
@@ -45,11 +45,11 @@ Every repository in this portfolio is an executable artifact adhering to strict 
           <img src="https://github.com/Yasir-Alazmi/enterprise-workforce-agents/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
         </a>
         <br>
-        <a href="https://github.com/Yasir-Alazmi/enterprise-workforce-agents"><b>Explore Repository →</b></a>
+        <a href="https://github.com/Yasir-Alazmi/enterprise-workforce-agents"><b>Explore Repository &rarr;</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/Yasir-Alazmi/enterprise-production-rag">Enterprise Production RAG</a></h4>
+      <h4><a href="https://github.com/Yasir-Alazmi/enterprise-production-rag">Enterprise Production RAG</a></h4>
       <p>Deterministic hybrid retrieval-augmented generation platform combining BM25 lexical indexing with dense semantic embeddings and Reciprocal Rank Fusion (RRF).</p>
       <ul>
         <li><b>Retrieval:</b> Dual-mode sparse/dense search with cross-encoder re-ranking</li>
@@ -61,54 +61,54 @@ Every repository in this portfolio is an executable artifact adhering to strict 
           <img src="https://github.com/Yasir-Alazmi/enterprise-production-rag/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
         </a>
         <br>
-        <a href="https://github.com/Yasir-Alazmi/enterprise-production-rag"><b>Explore Repository →</b></a>
+        <a href="https://github.com/Yasir-Alazmi/enterprise-production-rag"><b>Explore Repository &rarr;</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔬 <a href="https://github.com/Yasir-Alazmi/skin-lesion-classification">Clinical Vision Transformers (Tashkhees)</a></h4>
+      <h4><a href="https://github.com/Yasir-Alazmi/skin-lesion-classification">Clinical Vision Transformers (Tashkhees)</a></h4>
       <p>Comparative medical benchmark evaluating ViT-B/16 vs EfficientNet-B3 on the HAM10000 7-class dermatological dataset with DullRazor hair removal preprocessing.</p>
       <ul>
         <li><b>Evaluation:</b> 94.2% Accuracy, 93.8% Macro F1, 0.96 Macro AUC</li>
         <li><b>Reproducibility:</b> &lt;1.5s zero-friction CPU CLI demo & Gradio web UI</li>
-        <li><b>Stack:</b> PyTorch, Vision Transformers, timm, OpenCV</li>
+        <li><b>Clinical Integrity:</b> StratifiedGroupKFold on lesion identifiers to isolate patient leakage</li>
       </ul>
       <p>
         <a href="https://github.com/Yasir-Alazmi/skin-lesion-classification">
           <img src="https://github.com/Yasir-Alazmi/skin-lesion-classification/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
         </a>
         <br>
-        <a href="https://github.com/Yasir-Alazmi/skin-lesion-classification"><b>Explore Repository →</b></a>
+        <a href="https://github.com/Yasir-Alazmi/skin-lesion-classification"><b>Explore Repository &rarr;</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏥 <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics">Clinical Machine Learning Benchmark</a></h4>
-      <p>Rigorous comparative diagnostic study evaluating 10 supervised algorithms across 5 clinical datasets with strict train/test isolation to prevent data leakage.</p>
+      <h4><a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics">Comparative Healthcare Diagnostics Suite</a></h4>
+      <p>Rigorous comparative diagnostic study evaluating 10 supervised algorithms across 5 clinical datasets (7,146 patient records) with strict train/test isolation.</p>
       <ul>
-        <li><b>Integrity:</b> Stratified 5-Fold Cross-Validation & SMOTE within pipelines</li>
-        <li><b>Robustness:</b> Multi-seed stability & Gaussian noise perturbation testing</li>
-        <li><b>Metrics:</b> Balanced Accuracy, MCC, Brier Score, and ROC-AUC</li>
+        <li><b>Coverage:</b> Oncology, Cardiology, Nephrology, Endocrinology, and Neurology cohorts</li>
+        <li><b>Integrity:</b> Inner-pipeline scaling, Stratified 5-Fold Cross-Validation, and Brier score calibration</li>
+        <li><b>Publication:</b> Consulting-grade benchmark notebook published on Kaggle</li>
       </ul>
       <p>
         <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics">
           <img src="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
         </a>
         <a href="https://www.kaggle.com/code/yasirnalazmi/clinical-ai-benchmark-10-diagnostic-ml-models">
-          <img src="https://img.shields.io/badge/Kaggle-Live_Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Live Notebook" />
+          <img src="https://img.shields.io/badge/Kaggle-Live_Benchmark-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Benchmark" />
         </a>
         <br>
-        <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics"><b>Explore Repository →</b></a> &bull; <a href="https://www.kaggle.com/code/yasirnalazmi/clinical-ai-benchmark-10-diagnostic-ml-models"><b>Live Kaggle Notebook ↗</b></a>
+        <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics"><b>Explore Repository &rarr;</b></a> &bull; <a href="https://www.kaggle.com/code/yasirnalazmi/clinical-ai-benchmark-10-diagnostic-ml-models"><b>View Kaggle Benchmark &rarr;</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/Yasir-Alazmi/neural-network-from-scratch">Neural Network from First Principles</a></h4>
-      <p>Vectorized forward and backward propagation implemented entirely in pure NumPy with zero external deep learning frameworks.</p>
+      <h4><a href="https://github.com/Yasir-Alazmi/neural-network-from-scratch">Neural Network from First Principles</a></h4>
+      <p>Vectorized forward and backward propagation implemented in pure NumPy with zero external deep learning frameworks.</p>
       <ul>
-        <li><b>Calculus:</b> Chain-rule matrix derivatives for Dense, ReLU, and Sigmoid</li>
-        <li><b>Verification:</b> Finite-difference gradient checking ($\text{error} &lt; 10^{-7}$)</li>
+        <li><b>Calculus:</b> Chain-rule matrix derivatives for Dense, ReLU, and Sigmoid layers</li>
+        <li><b>Verification:</b> Finite-difference gradient checking (numerical relative error &lt; 10<sup>-7</sup>)</li>
         <li><b>Convergence:</b> Decision boundary learning on non-linear synthetic manifolds</li>
       </ul>
       <p>
@@ -116,72 +116,49 @@ Every repository in this portfolio is an executable artifact adhering to strict 
           <img src="https://github.com/Yasir-Alazmi/neural-network-from-scratch/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
         </a>
         <br>
-        <a href="https://github.com/Yasir-Alazmi/neural-network-from-scratch"><b>Explore Repository →</b></a>
+        <a href="https://github.com/Yasir-Alazmi/neural-network-from-scratch"><b>Explore Repository &rarr;</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📜 <a href="https://www.linkedin.com/in/yasir-alazmi-471832436">BCG X GenAI Job Simulation</a></h4>
-      <p>Industry-grade simulation focused on enterprise generative AI governance, deterministic evaluation of 10-K financial disclosures, and hallucination containment.</p>
+      <h4>Verified Machine Learning Pipelines</h4>
+      <p>Production-pattern classification and recommender pipelines backed by end-to-end automated testing and authentic domain data.</p>
       <ul>
-        <li><b>Focus:</b> Data extraction, rule-based auditing, and hybrid RAG governance</li>
-        <li><b>Credential:</b> Issued by Boston Consulting Group (BCG X)</li>
-        <li><b>Stack:</b> Python, Prompt Engineering, Evaluation Metrics</li>
+        <li><b><a href="https://github.com/Yasir-Alazmi/music-recommender">Music Recommender</a>:</b> Content-based audio feature matching across 5,191 Spotify tracks (23 passed tests)</li>
+        <li><b><a href="https://github.com/Yasir-Alazmi/fake-news-detector">Fake News Detector</a>:</b> Linear TF-IDF classification on 200 authentic political articles with feature explainability (32 passed tests)</li>
       </ul>
       <p>
-        <a href="https://www.linkedin.com/in/yasir-alazmi-471832436"><b>Inspect Credential on LinkedIn →</b></a>
+        <a href="https://github.com/Yasir-Alazmi/music-recommender"><b>Music Recommender &rarr;</b></a> &bull; <a href="https://github.com/Yasir-Alazmi/fake-news-detector"><b>Fake News Detector &rarr;</b></a>
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏢 <b>Menuo (منيو) — Enterprise Hospitality Operating System</b></h4>
-      <p>Full-stack SaaS digital web operating system engineered for Saudi hospitality brands, integrating ZATCA Phase 2 e-invoicing compliance and SFDA dietary standards.</p>
-      <ul>
-        <li><b>Saudi Compliance:</b> ZATCA Phase 2 TLV QR encoding, Wafeq XML API integration, and 15% VAT</li>
-        <li><b>Health Standards:</b> SFDA allergen matrix (Eggs, Dairy, Nuts, Wheat, Soy) & calorie breakdown</li>
-        <li><b>Stack:</b> Next.js 14, TypeScript, Supabase (PostgreSQL with RLS), Tailwind CSS</li>
-      </ul>
-      <p><sub><i>Proprietary Enterprise Production Platform</i></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏛️ <b>UFUQ (أُفُق) — Institutional Knowledge Base & AI Assistant</b></h4>
-      <p>Specialized institutional knowledge engine synthesized from University of Hail electronic service manuals for student and administrative service navigation.</p>
-      <ul>
-        <li><b>Knowledge Corpus:</b> 5,300+ line curated hierarchical institutional domain base</li>
-        <li><b>Architecture:</b> Unified portal service routing & automated administrative workflows</li>
-        <li><b>Stack:</b> Python, Monorepo Architecture, Domain Knowledge Engineering</li>
-      </ul>
-      <p><sub><i>Institutional System Architecture</i></sub></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Technical Competencies & Stack
+### Technical Competencies
 
 <table>
   <tr>
-    <td width="22%"><b>Generative AI & Agents</b></td>
-    <td>LangChain • LangGraph • Multi-Agent Orchestration • RAG • Hybrid Search (BM25 + Dense) • RRF Fusion • Prompt Engineering • Hallucination Guardrails</td>
+    <td width="24%"><b>Generative AI & Agents</b></td>
+    <td>LangChain, LangGraph, Multi-Agent Orchestration, Production RAG, Hybrid Search (BM25 + Dense), RRF Fusion, Guardrails, Evaluators</td>
   </tr>
   <tr>
-    <td width="22%"><b>Deep Learning & CV</b></td>
-    <td>PyTorch • Torchvision • Vision Transformers (ViT) • EfficientNet • CNNs • OpenCV • timm • Scikit-Learn • NumPy • Pandas</td>
+    <td width="24%"><b>Deep Learning & CV</b></td>
+    <td>PyTorch, Torchvision, Vision Transformers (ViT), EfficientNet, CNNs, OpenCV, timm, Scikit-Learn, NumPy, Pandas</td>
   </tr>
   <tr>
-    <td width="22%"><b>Backend & Engineering</b></td>
-    <td>Python • FastAPI • Celery • Redis • Docker • RESTful APIs • SQLite • Pydantic • Streamlit • Gradio</td>
+    <td width="24%"><b>Backend & Engineering</b></td>
+    <td>Python, FastAPI, Celery, Redis, Docker, RESTful APIs, SQLite, Pydantic, Streamlit, Gradio</td>
   </tr>
   <tr>
-    <td width="22%"><b>Engineering Discipline</b></td>
-    <td>pytest • Automated CI/CD (GitHub Actions) • TDD • Pre-commit / Flake8 / Black • Git Workflow • Zero-Trust RBAC</td>
+    <td width="24%"><b>Engineering Rigor</b></td>
+    <td>pytest, Automated CI/CD (GitHub Actions), TDD, Flake8 / Black / Ruff, Git Workflow, Zero-Trust RBAC</td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Engineering Activity
+### GitHub Engineering Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yasir-Alazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -191,6 +168,6 @@ Every repository in this portfolio is an executable artifact adhering to strict 
 ---
 
 <div align="center">
-  <sub>Open to AI Engineering roles, Graduate Development Programs (GDPs), and high-impact applied AI initiatives across Saudi Arabia.</sub><br>
-  <sub><b>Contact:</b> <a href="mailto:yasir.alazmi@outlook.sa">yasir.alazmi@outlook.sa</a> • <a href="https://www.linkedin.com/in/yasir-alazmi-471832436">LinkedIn Profile</a></sub>
+  <sub>Open to AI Engineering roles, Graduate Development Programs (GDPs), and applied AI initiatives across Saudi Arabia.</sub><br>
+  <sub><b>Contact:</b> <a href="mailto:yasir.alazmi@outlook.sa">yasir.alazmi@outlook.sa</a> &bull; <a href="https://www.linkedin.com/in/yasir-alazmi-471832436">LinkedIn Profile</a></sub>
 </div>
