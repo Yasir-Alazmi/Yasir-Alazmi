@@ -1,90 +1,171 @@
 <div align="center">
 
-# Yasir Alazmi
+# Hi, I'm Yasir Alazmi 👋
 ### Artificial Intelligence Engineer | Deep Learning, Autonomous Agents & Production RAG
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir_Alazmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-alazmi-471832436)
-[![Email](https://img.shields.io/badge/Email-yasir.alazmi@outlook.sa-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:yasir.alazmi@outlook.sa)
-[![Degree](https://img.shields.io/badge/Degree-B.S._Artificial_Intelligence-107C41?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/Yasir-Alazmi)
-[![Certification](https://img.shields.io/badge/Certified-BCG_X_GenAI-000000?style=for-the-badge&logo=expertsexchange&logoColor=white)](https://github.com/Yasir-Alazmi)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-100%25_Passing-success?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Yasir-Alazmi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir_Alazmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-alazmi-471832436)
+[![Email](https://img.shields.io/badge/Email-yasir.alazmi@outlook.sa-D14836?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:yasir.alazmi@outlook.sa)
+[![Degree](https://img.shields.io/badge/Degree-B.S._Artificial_Intelligence-107C41?style=flat-square&logo=academia&logoColor=white)](https://github.com/Yasir-Alazmi)
+[![Certification](https://img.shields.io/badge/Certified-BCG_X_GenAI-000000?style=flat-square&logo=expertsexchange&logoColor=white)](https://www.linkedin.com/in/yasir-alazmi-471832436)
+[![Location](https://img.shields.io/badge/Location-Saudi%20Arabia-107C41?style=flat-square&logo=google-maps&logoColor=white)](#)
+
+<p align="center">
+  B.S. in Artificial Intelligence from the University of Hail & BCG X GenAI Certified.<br>
+  I engineer deterministic multi-agent architectures, enterprise hybrid retrieval systems (RAG),<br>
+  and clinical deep learning computer vision pipelines backed by automated verification.
+</p>
 
 </div>
 
 ---
 
-## 🏛️ Executive Profile
+### 🏛️ Engineering Philosophy: Evidence-First & Zero-Friction
 
-Artificial Intelligence Engineer with a formal **Bachelor of Science in Artificial Intelligence** from the University of Hail and **BCG X GenAI Certification**. Specializing in the engineering lifecycle of enterprise AI: from **first-principles mathematical foundations** to **high-throughput asynchronous agent swarms**, **hybrid dense-sparse RAG systems**, and **clinical computer vision pipelines**.
-
-- **Engineering Philosophy**: First-principles mathematical implementation, zero-friction reproducibility, deterministic testing (100% automated CI/CD coverage), and production-grade API architecture.
-- **Core Specializations**: Autonomous Multi-Agent Orchestration, Production RAG Systems (Hybrid BM25 + Dense Search, Guardrails, Re-ranking), and Medical Computer Vision (Vision Transformers vs. CNNs).
-- **Standards & Discipline**: Every public repository adheres to the **7 Pillars of Production AI Repositories** (Deterministic CI, pinned environments, automated regression test suites, zero-leakage security gates, and reproducible demos).
-
----
-
-## 🚀 The Enterprise AI Trilogy (Flagship Systems)
-
-```mermaid
-flowchart TB
-    subgraph Trilogy["The Enterprise AI Trilogy"]
-        direction LR
-        Agents["🤖 Autonomous Workforce Agents<br/><i>Hierarchical Multi-Agent Swarm</i><br/>FastAPI • Celery • Redis • LangGraph"]
-        RAG["⚡ Enterprise Production RAG<br/><i>Zero-Trust Hybrid Retrieval Engine</i><br/>BM25 • BGE-Large • RRF • Guardrails"]
-        Vision["🔬 Medical Vision & Tashkhees<br/><i>ViT-B/16 vs EfficientNet-B3 Benchmark</i><br/>PyTorch • DullRazor • Gradio • 60s Demo"]
-    end
-```
-
-| Flagship Repository | Domain & Architecture | Core Tech Stack | Automated CI Status |
-| :--- | :--- | :--- | :---: |
-| **[enterprise-workforce-agents](https://github.com/Yasir-Alazmi/enterprise-workforce-agents)** | **Autonomous Multi-Agent Workforce Orchestrator**<br/>Hierarchical supervisor-worker swarm orchestrating distributed asynchronous task lifecycles, human-in-the-loop validation, Redis task state cache, and zero-trust RBAC. | FastAPI, Celery, Redis, LangGraph, Docker, Pytest | [![CI](https://github.com/Yasir-Alazmi/enterprise-workforce-agents/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/enterprise-workforce-agents/actions) |
-| **[enterprise-production-rag](https://github.com/Yasir-Alazmi/enterprise-production-rag)** | **Enterprise Production RAG Architecture**<br/>Full-lifecycle hybrid retrieval platform combining deterministic BM25 lexical indexing with dense semantic vector search (RRF fusion), contextual re-ranking, and strict PII guardrails. | Python, FastAPI, BM25, Qdrant/Chroma, Docker, Pytest | [![CI](https://github.com/Yasir-Alazmi/enterprise-production-rag/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/enterprise-production-rag/actions) |
-| **[skin-lesion-classification](https://github.com/Yasir-Alazmi/skin-lesion-classification)** | **Clinical Vision Transformers & Tashkhees Benchmark**<br/>Comparative medical diagnostic benchmark evaluating ViT-B/16 vs EfficientNet-B3 across 7 dermatological pathologies, featuring DullRazor artifact removal and zero-friction 60s demo. | PyTorch, Vision Transformers, OpenCV, Gradio, Pytest | [![CI](https://github.com/Yasir-Alazmi/skin-lesion-classification/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/skin-lesion-classification/actions) |
+Every repository in this portfolio is an executable artifact adhering to strict software engineering rigor:
+- **Zero-Friction Execution**: Ready-to-run 60-second inference scripts and sample clinical/domain data.
+- **Automated Verification**: Deterministic test suites run via GitHub Actions CI across all repositories.
+- **Mathematical Integrity**: Vectorized linear algebra from first principles and anti-leakage cross-validation.
 
 ---
 
-## 🔬 Applied Machine Learning & Scientific Foundations
+### 🚀 Flagship Engineering Repositories
 
-| Repository | Focus Area | Technical Highlights | CI Badge |
-| :--- | :--- | :--- | :---: |
-| **[Comparative-Analysis-Healthcare](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics)** | **Clinical ML Benchmarking** | 10 algorithms benchmarked across 5 clinical diagnostic datasets with stratified 5-fold cross-validation and ROC-AUC evaluation. | [![CI](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions) |
-| **[neural-network-from-scratch](https://github.com/Yasir-Alazmi/neural-network-from-scratch)** | **Deep Learning from First Principles** | Pure NumPy vectorized multi-layer perceptron, backward-pass calculus, analytical vs numerical gradient checking ($\text{error} < 10^{-7}$), and adaptive optimizers (Adam, RMSprop). | [![CI](https://github.com/Yasir-Alazmi/neural-network-from-scratch/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/neural-network-from-scratch/actions) |
-| **[fake-news-detector](https://github.com/Yasir-Alazmi/fake-news-detector)** | **NLP / Semantic Classification** | Automated NLP linguistic verification pipeline with TF-IDF sublinear n-gram feature extraction and L2-regularized logistic classification. | [![CI](https://github.com/Yasir-Alazmi/fake-news-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/fake-news-detector/actions) |
-| **[music-recommender](https://github.com/Yasir-Alazmi/music-recommender)** | **Recommender Systems & Discovery** | Content-based collaborative recommendation engine with multi-dimensional cosine similarity indexing and interactive Streamlit UI. | [![CI](https://github.com/Yasir-Alazmi/music-recommender/actions/workflows/ci.yml/badge.svg)](https://github.com/Yasir-Alazmi/music-recommender/actions) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/Yasir-Alazmi/enterprise-workforce-agents">Enterprise Workforce Agents</a></h4>
+      <p>Hierarchical multi-agent supervisor/worker swarm orchestrating distributed asynchronous task lifecycles with bounded state machines and human-in-the-loop review.</p>
+      <ul>
+        <li><b>Architecture:</b> Supervisor-Worker pattern with LangGraph & FastAPI</li>
+        <li><b>Security:</b> Zero-trust JWT RBAC & sandboxed read-only SQL tool</li>
+        <li><b>Automated Suite:</b> 58 passed unit & integration tests</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Yasir-Alazmi/enterprise-workforce-agents">
+          <img src="https://github.com/Yasir-Alazmi/enterprise-workforce-agents/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
+        </a>
+        <br>
+        <a href="https://github.com/Yasir-Alazmi/enterprise-workforce-agents"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/Yasir-Alazmi/enterprise-production-rag">Enterprise Production RAG</a></h4>
+      <p>Deterministic hybrid retrieval-augmented generation platform combining BM25 lexical indexing with dense semantic embeddings and Reciprocal Rank Fusion (RRF).</p>
+      <ul>
+        <li><b>Retrieval:</b> Dual-mode sparse/dense search with cross-encoder re-ranking</li>
+        <li><b>Safety:</b> PII redaction and prompt-injection defense guardrails</li>
+        <li><b>Automated Suite:</b> 67 passed unit & evaluation tests</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Yasir-Alazmi/enterprise-production-rag">
+          <img src="https://github.com/Yasir-Alazmi/enterprise-production-rag/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
+        </a>
+        <br>
+        <a href="https://github.com/Yasir-Alazmi/enterprise-production-rag"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔬 <a href="https://github.com/Yasir-Alazmi/skin-lesion-classification">Clinical Vision Transformers (Tashkhees)</a></h4>
+      <p>Comparative medical benchmark evaluating ViT-B/16 vs EfficientNet-B3 on the HAM10000 7-class dermatological dataset with DullRazor hair removal preprocessing.</p>
+      <ul>
+        <li><b>Evaluation:</b> 94.2% Accuracy, 93.8% Macro F1, 0.96 Macro AUC</li>
+        <li><b>Reproducibility:</b> &lt;1.5s zero-friction CPU CLI demo & Gradio web UI</li>
+        <li><b>Stack:</b> PyTorch, Vision Transformers, timm, OpenCV</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Yasir-Alazmi/skin-lesion-classification">
+          <img src="https://github.com/Yasir-Alazmi/skin-lesion-classification/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
+        </a>
+        <br>
+        <a href="https://github.com/Yasir-Alazmi/skin-lesion-classification"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏥 <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics">Clinical Machine Learning Benchmark</a></h4>
+      <p>Rigorous comparative diagnostic study evaluating 10 supervised algorithms across 5 clinical datasets with strict train/test isolation to prevent data leakage.</p>
+      <ul>
+        <li><b>Integrity:</b> Stratified 5-Fold Cross-Validation & SMOTE within pipelines</li>
+        <li><b>Robustness:</b> Multi-seed stability & Gaussian noise perturbation testing</li>
+        <li><b>Metrics:</b> Balanced Accuracy, MCC, Brier Score, and ROC-AUC</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics">
+          <img src="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
+        </a>
+        <br>
+        <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 <a href="https://github.com/Yasir-Alazmi/neural-network-from-scratch">Neural Network from First Principles</a></h4>
+      <p>Vectorized forward and backward propagation implemented entirely in pure NumPy with zero external deep learning frameworks.</p>
+      <ul>
+        <li><b>Calculus:</b> Chain-rule matrix derivatives for Dense, ReLU, and Sigmoid</li>
+        <li><b>Verification:</b> Finite-difference gradient checking ($\text{error} &lt; 10^{-7}$)</li>
+        <li><b>Convergence:</b> Decision boundary learning on non-linear synthetic manifolds</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Yasir-Alazmi/neural-network-from-scratch">
+          <img src="https://github.com/Yasir-Alazmi/neural-network-from-scratch/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
+        </a>
+        <br>
+        <a href="https://github.com/Yasir-Alazmi/neural-network-from-scratch"><b>Explore Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📜 <a href="https://www.linkedin.com/in/yasir-alazmi-471832436">BCG X GenAI Job Simulation</a></h4>
+      <p>Industry-grade simulation focused on enterprise generative AI governance, deterministic evaluation of 10-K financial disclosures, and hallucination containment.</p>
+      <ul>
+        <li><b>Focus:</b> Data extraction, rule-based auditing, and hybrid RAG governance</li>
+        <li><b>Credential:</b> Issued by Boston Consulting Group (BCG X)</li>
+        <li><b>Stack:</b> Python, Prompt Engineering, Evaluation Metrics</li>
+      </ul>
+      <p>
+        <a href="https://www.linkedin.com/in/yasir-alazmi-471832436"><b>Inspect Credential on LinkedIn →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Core Engineering Stack & Competencies
+### 🛠️ Technical Competencies & Stack
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Generative AI & LLM Systems** | LangChain, LangGraph, CrewAI, Retrieval-Augmented Generation (RAG), Hybrid Search (BM25 + Dense Vectors), Reciprocal Rank Fusion (RRF), Prompt Engineering, Semantic Caching, Hallucination Guardrails. |
-| **Deep Learning & Computer Vision** | PyTorch, Torchvision, Vision Transformers (ViT), EfficientNet, CNNs, OpenCV, Albumentations, Scikit-Learn, NumPy, Pandas. |
-| **Software Architecture & MLOps** | FastAPI, Celery, Redis, Docker, GitHub Actions (CI/CD), Pytest, Flake8, Black, Isort, Asynchronous Python (asyncio), Zero-Trust RBAC. |
-| **Mathematical Foundations** | Vectorized Matrix Calculus, Backpropagation from First Principles, Gradient Checking, Numerical Optimization (Adam, SGD, Momentum), Stratified Cross-Validation. |
+<table>
+  <tr>
+    <td width="22%"><b>Generative AI & Agents</b></td>
+    <td>LangChain • LangGraph • Multi-Agent Orchestration • RAG • Hybrid Search (BM25 + Dense) • RRF Fusion • Prompt Engineering • Hallucination Guardrails</td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Deep Learning & CV</b></td>
+    <td>PyTorch • Torchvision • Vision Transformers (ViT) • EfficientNet • CNNs • OpenCV • timm • Scikit-Learn • NumPy • Pandas</td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Backend & Engineering</b></td>
+    <td>Python • FastAPI • Celery • Redis • Docker • RESTful APIs • SQLite • Pydantic • Streamlit • Gradio</td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Engineering Discipline</b></td>
+    <td>pytest • Automated CI/CD (GitHub Actions) • TDD • Pre-commit / Flake8 / Black • Git Workflow • Zero-Trust RBAC</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Portfolio Engineering Health
+### 📊 GitHub Engineering Activity
 
-```
-All 7 Production Repositories Pass 100% Automated Continuous Integration
-├── ✅ enterprise-workforce-agents                          [Passing]
-├── ✅ enterprise-production-rag                            [Passing]
-├── ✅ skin-lesion-classification                           [Passing]
-├── ✅ Comparative-Analysis-of-Machine-Learning-Models      [Passing]
-├── ✅ neural-network-from-scratch                          [Passing]
-├── ✅ fake-news-detector                                   [Passing]
-└── ✅ music-recommender                                    [Passing]
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yasir-Alazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Alazmi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</div>
 
 ---
 
 <div align="center">
-
-### 📬 Connect & Collaborate
-
-**Yasir Alazmi** — *AI Engineer & Applied Deep Learning Specialist*  
-📧 [yasir.alazmi@outlook.sa](mailto:yasir.alazmi@outlook.sa) • 🌐 [LinkedIn](https://www.linkedin.com/in/yasir-alazmi-471832436) • 💻 [GitHub Profile](https://github.com/Yasir-Alazmi)
-
+  <sub>Open to AI Engineering roles, Graduate Development Programs (GDPs), and high-impact applied AI initiatives across Saudi Arabia.</sub><br>
+  <sub><b>Contact:</b> <a href="mailto:yasir.alazmi@outlook.sa">yasir.alazmi@outlook.sa</a> • <a href="https://www.linkedin.com/in/yasir-alazmi-471832436">LinkedIn Profile</a></sub>
 </div>
