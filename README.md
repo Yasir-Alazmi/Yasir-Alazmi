@@ -4,7 +4,7 @@
 ### Artificial Intelligence Engineer
 **Applied Machine Learning &bull; Retrieval-Augmented Generation &bull; Medical Computer Vision**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir_Alazmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-alazmi-471832436)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir_Alazmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-alazmi)
 [![Email](https://img.shields.io/badge/Email-yasir.alazmi@outlook.sa-D14836?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:yasir.alazmi@outlook.sa)
 [![Degree](https://img.shields.io/badge/Degree-B.S._Artificial_Intelligence-107C41?style=flat-square&logo=academia&logoColor=white)](https://github.com/Yasir-Alazmi)
 [![Location](https://img.shields.io/badge/Location-Saudi%20Arabia-107C41?style=flat-square&logo=google-maps&logoColor=white)](#)
@@ -120,7 +120,7 @@ Every repository in this portfolio is an executable artifact adhering to strict 
 <table>
   <tr>
     <td width="24%"><b>Generative AI & Agents</b></td>
-    <td>LangChain, LangGraph, Multi-Agent Orchestration, Production RAG, Hybrid Search (BM25 + Dense), RRF Fusion, Guardrails, Evaluators</td>
+    <td>RAG, Hybrid Search (BM25 + Dense, pgvector), RRF Fusion, Prompt-injection / PII guards, Retrieval evaluation (BEIR), Ollama, LoRA fine-tuning</td>
   </tr>
   <tr>
     <td width="24%"><b>Deep Learning & CV</b></td>
@@ -128,11 +128,11 @@ Every repository in this portfolio is an executable artifact adhering to strict 
   </tr>
   <tr>
     <td width="24%"><b>Backend & Engineering</b></td>
-    <td>Python, FastAPI, Celery, Redis, Docker, RESTful APIs, SQLite, Pydantic, Streamlit, Gradio</td>
+    <td>Python, TypeScript, FastAPI, Fastify, Next.js, PostgreSQL, Docker Compose, Nginx, AWS EC2, RESTful APIs, SQLite, Pydantic, Streamlit, Gradio</td>
   </tr>
   <tr>
     <td width="24%"><b>Engineering Rigor</b></td>
-    <td>pytest, Automated CI/CD (GitHub Actions), TDD, Flake8 / Black / Ruff, Git Workflow, Zero-Trust RBAC</td>
+    <td>pytest, Automated CI/CD (GitHub Actions), TDD, Flake8 / Black / Ruff, Git Workflow, JWT / RBAC</td>
   </tr>
 </table>
 
@@ -149,5 +149,5 @@ Every repository in this portfolio is an executable artifact adhering to strict 
 
 <div align="center">
   <sub>Open to AI Engineering roles, Graduate Development Programs (GDPs), and applied AI initiatives across Saudi Arabia.</sub><br>
-  <sub><b>Contact:</b> <a href="mailto:yasir.alazmi@outlook.sa">yasir.alazmi@outlook.sa</a> &bull; <a href="https://www.linkedin.com/in/yasir-alazmi-471832436">LinkedIn Profile</a></sub>
+  <sub><b>Contact:</b> <a href="mailto:yasir.alazmi@outlook.sa">yasir.alazmi@outlook.sa</a> &bull; <a href="https://www.linkedin.com/in/yasir-alazmi">LinkedIn Profile</a></sub>
 </div>
