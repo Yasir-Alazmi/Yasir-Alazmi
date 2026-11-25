@@ -1,153 +1,52 @@
-<div align="center">
-
 # Yasir Alazmi
-### Artificial Intelligence Engineer
-**Applied Machine Learning &bull; Retrieval-Augmented Generation &bull; Medical Computer Vision**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir_Alazmi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-alazmi)
-[![Email](https://img.shields.io/badge/Email-yasir.alazmi@outlook.sa-D14836?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:yasir.alazmi@outlook.sa)
-[![Degree](https://img.shields.io/badge/Degree-B.S._Artificial_Intelligence-107C41?style=flat-square&logo=academia&logoColor=white)](https://github.com/Yasir-Alazmi)
-[![Location](https://img.shields.io/badge/Location-Saudi%20Arabia-107C41?style=flat-square&logo=google-maps&logoColor=white)](#)
+**AI / ML engineer · B.Sc. Artificial Intelligence, University of Hail (expected January 2027) · Saudi Arabia**
 
-<p align="center">
-  B.S. in Artificial Intelligence from the University of Hail.<br>
-  Focused on retrieval-augmented generation, clinical computer vision,<br>
-  and leakage-safe model evaluation, with automated tests and CI on every public repository.
-</p>
+I build machine learning systems end to end: training and evaluating models, then putting them behind tested APIs and shipping them. I care most about honest evaluation. Every number in my repositories links to a committed result file.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/yasir-alazmi) · [Kaggle](https://www.kaggle.com/yasirnalazmi) · [Email](mailto:yasir.alazmi@outlook.sa)
 
 ---
 
-### Engineering Principles: Evidence-First & Zero-Friction
+## Selected work
 
-Every repository in this portfolio is an executable artifact adhering to strict software engineering rigor:
-- **Zero-Friction Execution**: Ready-to-run inference scripts and sample clinical/domain data for immediate verification.
-- **Automated Verification**: Deterministic test suites executed via GitHub Actions CI across all public repositories.
-- **Mathematical Integrity**: Vectorized linear algebra from first principles and anti-leakage cross-validation protocols.
+### [Skin lesion classification (HAM10000)](https://github.com/Yasir-Alazmi/skin-lesion-classification)
+Seven-class dermoscopy classification in PyTorch (timm).
+- A ConvNeXt-S ensemble reaches **0.819 balanced accuracy** (95% CI 0.783–0.852) on a lesion-grouped held-out test set of 1,503 images. A ViT-B/16 baseline reaches 0.712.
+- I found image-level leakage behind an earlier 94.2% accuracy result, retracted it, and re-evaluated with lesion-level splits and bootstrap confidence intervals.
+- Training sweeps ran on Kaggle GPUs. Negative results are reported too.
+- 43 tests, CI.
 
----
+### UFUQ: bilingual academic assistant for University of Hail students (graduation project)
+A retrieval-augmented assistant that answers student questions in Arabic and English from 273 official university documents. I designed and built it, and lead the project team. It is live at [ufuq.space](https://ufuq.space). The code is private for now.
+- Hybrid retrieval in PostgreSQL: full-text search and pgvector HNSW, merged with Reciprocal Rank Fusion. Embeddings are bge-m3, served with Ollama.
+- A PDF ingestion pipeline with a page-quality gate and an OCR cross-check for damaged pages.
+- A Fastify/TypeScript API and a Next.js web app, deployed with Docker Compose and Nginx on AWS.
 
-### Featured Engineering Systems
+### [Hybrid retrieval for RAG: reference implementation](https://github.com/Yasir-Alazmi/enterprise-production-rag)
+BM25 and dense retrieval fused with Reciprocal Rank Fusion, behind a FastAPI service with role-based access applied inside retrieval.
+- On BEIR SciFact (300 queries), the hybrid reaches **nDCG@10 0.679** (BM25 alone: 0.661) and **Recall@100 0.955** (BM25 alone: 0.876).
+- 68 tests, Docker, CI. This is a reference implementation and is not deployed.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Yasir-Alazmi/skin-lesion-classification">Skin Lesion Classification (HAM10000)</a></h4>
-      <p>Seven-class dermoscopic classification comparing ConvNeXt, ViT-B/16 and EfficientNet-B3, evaluated with a lesion-grouped split so no lesion appears in both training and test data.</p>
-      <ul>
-        <li><b>Evaluation:</b> lesion-level bootstrap confidence intervals; an earlier, inflated result was retracted after finding image-level leakage</li>
-        <li><b>Method:</b> documented sweep on Kaggle GPUs, validation-only model selection, negative results reported</li>
-        <li><b>Demo:</b> Gradio app that runs the real trained models (research use only)</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Yasir-Alazmi/skin-lesion-classification">
-          <img src="https://github.com/Yasir-Alazmi/skin-lesion-classification/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
-        </a>
-        <br>
-        <a href="https://github.com/Yasir-Alazmi/skin-lesion-classification"><b>Explore Repository &rarr;</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Yasir-Alazmi/enterprise-production-rag">Hybrid RAG Reference Implementation</a></h4>
-      <p>Retrieval-augmented generation pipeline combining BM25 lexical search with dense embeddings and Reciprocal Rank Fusion. Evaluated on a small sample corpus; a reference implementation, not a production deployment.</p>
-      <ul>
-        <li><b>Retrieval:</b> sparse and dense search with cross-encoder re-ranking</li>
-        <li><b>Safety:</b> PII redaction and prompt-injection guardrails</li>
-        <li><b>Quality:</b> unit and evaluation tests run in CI</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Yasir-Alazmi/enterprise-production-rag">
-          <img src="https://github.com/Yasir-Alazmi/enterprise-production-rag/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
-        </a>
-        <br>
-        <a href="https://github.com/Yasir-Alazmi/enterprise-production-rag"><b>Explore Repository &rarr;</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics">Clinical ML Benchmark</a></h4>
-      <p>Comparative study of supervised models on clinical datasets, including the CDC NHANES and Framingham cohorts, with strict train/test isolation.</p>
-      <ul>
-        <li><b>Statistics:</b> bootstrap confidence intervals, paired tests and calibration</li>
-        <li><b>Reporting:</b> TRIPOD+AI checklist mapped in the repository</li>
-        <li><b>Publication:</b> benchmark notebook on Kaggle</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics">
-          <img src="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
-        </a>
-        <a href="https://www.kaggle.com/code/yasirnalazmi/clinical-ai-benchmark-10-diagnostic-ml-models">
-          <img src="https://img.shields.io/badge/Kaggle-Benchmark-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Benchmark" />
-        </a>
-        <br>
-        <a href="https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics"><b>Explore Repository &rarr;</b></a> &bull; <a href="https://www.kaggle.com/code/yasirnalazmi/clinical-ai-benchmark-10-diagnostic-ml-models"><b>View Kaggle Benchmark &rarr;</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Yasir-Alazmi/neural-network-from-scratch">Neural Network from First Principles</a></h4>
-      <p>Forward and backward propagation implemented in pure NumPy, without deep learning frameworks.</p>
-      <ul>
-        <li><b>Calculus:</b> chain-rule gradients for dense, ReLU and sigmoid layers</li>
-        <li><b>Verification:</b> finite-difference gradient checks in the test suite (tolerance 10<sup>-4</sup>)</li>
-        <li><b>Training:</b> learns a non-linear decision boundary on synthetic data</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Yasir-Alazmi/neural-network-from-scratch">
-          <img src="https://github.com/Yasir-Alazmi/neural-network-from-scratch/actions/workflows/ci.yml/badge.svg" alt="CI Status" />
-        </a>
-        <br>
-        <a href="https://github.com/Yasir-Alazmi/neural-network-from-scratch"><b>Explore Repository &rarr;</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>Smaller Machine Learning Projects</h4>
-      <ul>
-        <li><b><a href="https://github.com/Yasir-Alazmi/music-recommender">Music Recommender</a>:</b> content-based recommendation from Spotify audio features, with a Streamlit interface</li>
-        <li><b><a href="https://github.com/Yasir-Alazmi/fake-news-detector">Fake News Detector</a>:</b> TF-IDF text classifier with feature explainability (a learning project; its evaluation is being redone)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### [Clinical ML benchmark (NHANES and Framingham)](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics)
+I compared 11 classifiers on CDC NHANES (n = 11,288) using bootstrap confidence intervals and paired tests.
+- Regularised logistic regression matched the tree ensembles: ROC-AUC 0.833, with no significant difference from CatBoost (p = 0.19).
+- External validation on Framingham shows how much performance drops under distribution shift.
+- The repository also includes conformal prediction and a subgroup fairness check.
 
 ---
 
-### Technical Competencies
+## Skills
 
-<table>
-  <tr>
-    <td width="24%"><b>Generative AI & Agents</b></td>
-    <td>RAG, Hybrid Search (BM25 + Dense, pgvector), RRF Fusion, Prompt-injection / PII guards, Retrieval evaluation (BEIR), Ollama, LoRA fine-tuning</td>
-  </tr>
-  <tr>
-    <td width="24%"><b>Deep Learning & CV</b></td>
-    <td>PyTorch, Torchvision, Vision Transformers (ViT), EfficientNet, CNNs, OpenCV, timm, Scikit-Learn, NumPy, Pandas</td>
-  </tr>
-  <tr>
-    <td width="24%"><b>Backend & Engineering</b></td>
-    <td>Python, TypeScript, FastAPI, Fastify, Next.js, PostgreSQL, Docker Compose, Nginx, AWS EC2, RESTful APIs, SQLite, Pydantic, Streamlit, Gradio</td>
-  </tr>
-  <tr>
-    <td width="24%"><b>Engineering Rigor</b></td>
-    <td>pytest, Automated CI/CD (GitHub Actions), TDD, Flake8 / Black / Ruff, Git Workflow, JWT / RBAC</td>
-  </tr>
-</table>
+| Area | Tools I have used in the projects above |
+|---|---|
+| Machine learning | Python, PyTorch, timm, scikit-learn, XGBoost, LightGBM, CatBoost, SHAP, OpenCV, pandas, NumPy |
+| Evaluation | held-out and group-aware splits, bootstrap CIs, paired tests, calibration, conformal prediction, BEIR retrieval metrics |
+| LLM and retrieval | RAG, BM25 plus dense hybrid search, Reciprocal Rank Fusion, pgvector, Ollama, sentence-transformers |
+| Backend | FastAPI, Fastify (TypeScript), Next.js, PostgreSQL, SQLite, MongoDB, JWT and role-based access |
+| Delivery | Docker, Docker Compose, Nginx, AWS EC2, GitHub Actions, pytest |
+| Optimisation | OR-Tools CP-SAT |
 
----
+**Languages:** Arabic (native), English.
 
-### GitHub Engineering Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasir-Alazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Alazmi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</div>
-
----
-
-<div align="center">
-  <sub>Open to AI Engineering roles, Graduate Development Programs (GDPs), and applied AI initiatives across Saudi Arabia.</sub><br>
-  <sub><b>Contact:</b> <a href="mailto:yasir.alazmi@outlook.sa">yasir.alazmi@outlook.sa</a> &bull; <a href="https://www.linkedin.com/in/yasir-alazmi">LinkedIn Profile</a></sub>
-</div>
+<sub>Some implementation work in these repositories was done with AI coding assistants. I designed it, reviewed it and tested it.</sub>
