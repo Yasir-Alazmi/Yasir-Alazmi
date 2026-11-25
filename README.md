@@ -2,7 +2,7 @@
 
 **AI / ML engineer · B.Sc. Artificial Intelligence, University of Hail (expected January 2027) · Saudi Arabia**
 
-I build machine learning systems end to end: training and evaluating models, then putting them behind tested APIs and shipping them. I care most about honest evaluation. Every number in my repositories links to a committed result file.
+I build machine learning systems end to end: training and evaluating models, then putting them behind tested APIs and shipping them. I care most about honest evaluation: every number in the projects below links to a committed result file.
 
 [LinkedIn](https://www.linkedin.com/in/yasir-alazmi) · [Kaggle](https://www.kaggle.com/yasirnalazmi) · [Email](mailto:yasir.alazmi@outlook.sa)
 
@@ -30,7 +30,7 @@ BM25 and dense retrieval fused with Reciprocal Rank Fusion, behind a FastAPI ser
 
 ### [Clinical ML benchmark (NHANES and Framingham)](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics)
 I compared 11 classifiers on CDC NHANES (n = 11,288) using bootstrap confidence intervals and paired tests.
-- Regularised logistic regression matched the tree ensembles: ROC-AUC 0.833, with no significant difference from CatBoost (p = 0.19).
+- Regularised logistic regression matched the tree ensembles: ROC-AUC 0.833 on the held-out set, not significantly different from the runner-up, Random Forest (paired bootstrap p = 0.14).
 - External validation on Framingham shows how much performance drops under distribution shift.
 - The repository also includes conformal prediction and a subgroup fairness check.
 
