@@ -13,11 +13,11 @@ I build machine learning systems end to end: training and evaluating models, the
 ### [Skin lesion classification (HAM10000)](https://github.com/Yasir-Alazmi/skin-lesion-classification)
 Seven-class dermoscopy classification in PyTorch (timm).
 - A ConvNeXt-S ensemble reaches **0.819 balanced accuracy** (95% CI 0.783–0.852) on a lesion-grouped held-out test set of 1,503 images. A ViT-B/16 baseline reaches 0.712.
-- I found image-level leakage behind an earlier 94.2% accuracy result, retracted it, and re-evaluated with lesion-level splits and bootstrap confidence intervals.
+- I retracted an earlier 94.2% accuracy result that could not be reproduced, and re-evaluated with lesion-level splits and bootstrap confidence intervals.
 - Training sweeps ran on Kaggle GPUs. Negative results are reported too.
 - 43 tests, CI.
 
-### UFUQ: bilingual academic assistant for University of Hail students (graduation project)
+### UFUQ: bilingual academic assistant for University of Hail students (team lead)
 A retrieval-augmented assistant that answers student questions in Arabic and English from 273 official university documents. I designed and built it, and lead the project team. It is live at [ufuq.space](https://ufuq.space). The code is private for now.
 - Hybrid retrieval in PostgreSQL: full-text search and pgvector HNSW, merged with Reciprocal Rank Fusion. Embeddings are bge-m3, served with Ollama.
 - A PDF ingestion pipeline with a page-quality gate and an OCR cross-check for damaged pages.
