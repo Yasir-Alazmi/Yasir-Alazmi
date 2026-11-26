@@ -23,12 +23,12 @@ A retrieval-augmented assistant that answers student questions in Arabic and Eng
 - A PDF ingestion pipeline with a page-quality gate and an OCR cross-check for damaged pages.
 - A Fastify/TypeScript API and a Next.js web app, deployed with Docker Compose and Nginx on AWS.
 
-### [Hybrid retrieval for RAG: reference implementation](https://github.com/Yasir-Alazmi/enterprise-production-rag)
+### [Hybrid retrieval for RAG: reference implementation](https://github.com/Yasir-Alazmi/hybrid-rag-rbac)
 BM25 and dense retrieval fused with Reciprocal Rank Fusion, behind a FastAPI service with role-based access applied inside retrieval.
 - On BEIR SciFact (300 queries), the hybrid reaches **nDCG@10 0.679** (BM25 alone: 0.661) and **Recall@100 0.955** (BM25 alone: 0.876).
 - 68 tests, Docker, CI. This is a reference implementation and is not deployed.
 
-### [Clinical ML benchmark (NHANES and Framingham)](https://github.com/Yasir-Alazmi/Comparative-Analysis-of-Machine-Learning-Models-for-Healthcare-Diagnostics)
+### [Clinical ML benchmark (NHANES and Framingham)](https://github.com/Yasir-Alazmi/cardiovascular-risk-external-validation)
 I compared 11 classifiers on CDC NHANES (n = 11,288) using bootstrap confidence intervals and paired tests.
 - Regularised logistic regression matched the tree ensembles: ROC-AUC 0.833 on the held-out set, not significantly different from the runner-up, Random Forest (paired bootstrap p = 0.14).
 - External validation on Framingham shows how much performance drops under distribution shift.
