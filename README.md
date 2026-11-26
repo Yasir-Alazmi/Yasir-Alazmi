@@ -1,6 +1,6 @@
 # Yasir Alazmi
 
-**AI / ML engineer · B.Sc. Artificial Intelligence, University of Hail (expected January 2027) · Saudi Arabia**
+**AI / ML engineer · B.Sc. Artificial Intelligence, University of Hail (expected December 2026) · Saudi Arabia**
 
 I build machine learning systems end to end: training and evaluating models, then putting them behind tested APIs and shipping them. I care most about honest evaluation: every number in the projects below links to a committed result file.
 
